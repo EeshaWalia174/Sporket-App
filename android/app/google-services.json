@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965604518092",
+    "project_id": "sporket",
+    "storage_bucket": "sporket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965604518092:android:f66548c1b1c0a5e8733a69",
+        "android_client_info": {
+          "package_name": "com.fantasy.sporket.sporket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965604518092-aiqnm9uothus5uok0evqqoidvgte5g9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantasy.sporket.sporket",
+            "certificate_hash": "ca17a180550127befbba9c0944555da12aeaab25"
+          }
+        },
+        {
+          "client_id": "965604518092-b59d0t9t56op0f1397d1jsbvh8ridj3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantasy.sporket.sporket",
+            "certificate_hash": "2ecaf4c8e163f2b97e05251cd0276cec26ebe4b3"
+          }
+        },
+        {
+          "client_id": "965604518092-1qt4h2scu61418uiqbcgvj5hc2jl0qeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhB6Lp-8gujYdWTahI9zCdiwYa-RdVwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965604518092-1qt4h2scu61418uiqbcgvj5hc2jl0qeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

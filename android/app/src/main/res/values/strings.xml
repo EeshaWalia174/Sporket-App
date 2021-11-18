@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sporket</string>
+    <string name="facebook_app_id">548198029523514</string>
+    <string name="fb_login_protocol_scheme">fb1418029498553151</string>
+</resources>
